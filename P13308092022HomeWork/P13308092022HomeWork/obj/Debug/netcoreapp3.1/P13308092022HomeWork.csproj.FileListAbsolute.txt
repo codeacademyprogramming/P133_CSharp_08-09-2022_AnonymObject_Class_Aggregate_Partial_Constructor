@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P133\HomeWork\P13308092022HomeWork\P13308092022HomeWork\bin\Debug\netcoreapp3.1\P13308092022HomeWork.exe
+C:\Users\hamid.mammadov\Desktop\P133\HomeWork\P13308092022HomeWork\P13308092022HomeWork\bin\Debug\netcoreapp3.1\P13308092022HomeWork.deps.json
+C:\Users\hamid.mammadov\Desktop\P133\HomeWork\P13308092022HomeWork\P13308092022HomeWork\bin\Debug\netcoreapp3.1\P13308092022HomeWork.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P133\HomeWork\P13308092022HomeWork\P13308092022HomeWork\bin\Debug\netcoreapp3.1\P13308092022HomeWork.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P133\HomeWork\P13308092022HomeWork\P13308092022HomeWork\bin\Debug\netcoreapp3.1\P13308092022HomeWork.dll
+C:\Users\hamid.mammadov\Desktop\P133\HomeWork\P13308092022HomeWork\P13308092022HomeWork\bin\Debug\netcoreapp3.1\P13308092022HomeWork.pdb
+C:\Users\hamid.mammadov\Desktop\P133\HomeWork\P13308092022HomeWork\P13308092022HomeWork\obj\Debug\netcoreapp3.1\P13308092022HomeWork.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P133\HomeWork\P13308092022HomeWork\P13308092022HomeWork\obj\Debug\netcoreapp3.1\P13308092022HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P133\HomeWork\P13308092022HomeWork\P13308092022HomeWork\obj\Debug\netcoreapp3.1\P13308092022HomeWork.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\HomeWork\P13308092022HomeWork\P13308092022HomeWork\obj\Debug\netcoreapp3.1\P13308092022HomeWork.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P133\HomeWork\P13308092022HomeWork\P13308092022HomeWork\obj\Debug\netcoreapp3.1\P13308092022HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\HomeWork\P13308092022HomeWork\P13308092022HomeWork\obj\Debug\netcoreapp3.1\P13308092022HomeWork.dll
+C:\Users\hamid.mammadov\Desktop\P133\HomeWork\P13308092022HomeWork\P13308092022HomeWork\obj\Debug\netcoreapp3.1\P13308092022HomeWork.pdb
+C:\Users\hamid.mammadov\Desktop\P133\HomeWork\P13308092022HomeWork\P13308092022HomeWork\obj\Debug\netcoreapp3.1\P13308092022HomeWork.genruntimeconfig.cache

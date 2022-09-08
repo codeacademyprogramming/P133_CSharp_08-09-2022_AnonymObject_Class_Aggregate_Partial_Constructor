@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1DnoyfXJ4cH3m9FmLkOmRg/sMq4tQCxH2uWDQfHQxMqvYtuMcCEjHU+valj9TxSd/pAZ3KPOgeuqfrWKmXMsPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hamid.mammadov\\Desktop\\P133\\ClassWork\\P133AnonymObjecClass\\P133AnonymObjecClass\\P133AnonymObjecClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hamid.mammadov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
