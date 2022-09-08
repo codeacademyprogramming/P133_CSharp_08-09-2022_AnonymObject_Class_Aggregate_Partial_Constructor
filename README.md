@@ -1,0 +1,1 @@
+# P133_CSharp_08-09-2022_AnonymObject_Class_Aggregate_Partial_Constructor
